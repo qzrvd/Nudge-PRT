@@ -1,0 +1,11 @@
+Patrón mensual, campos de patente y revisitas · RM · 2025
+
+Para una diapositiva: curva_u_presentacion.png o .svg.
+Para comparar ventanas iguales: curva_concentracion.png o .svg.
+Abra informe.html para ver los resultados y curva_interactiva.html para explorar puntos.
+calendario_y_revisitas_2025.xlsx contiene los denominadores, campos verificados y sensibilidades.
+informe.md explica por qué coincidencia de calendario no equivale a vigencia comprobada ni identifica liquidez.
+
+Las revisitas son inferidas, no están marcadas oficialmente.
+La tasa del mes precedente es una aproximación observable en una cohorte definida, no una tasa confirmada de adelantos efectivos ni del parque total.
+No se incluyen patentes ni identificadores individuales en este paquete.

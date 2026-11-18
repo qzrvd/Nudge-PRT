@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.cache/
+datos/.clave_calendario
+datos/*.sqlite
+datos/*.sqlite-*
+datos/*.db
+datos/*.db-*
+fuentes/*.zip
+fuentes/*.part

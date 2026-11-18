@@ -1,0 +1,10 @@
+Rapidez registrada del servicio · RM · 2025
+
+Abra informe_interactivo.html para explorar los gráficos.
+eficiencia_rm_2025.xlsx contiene la comparación ajustada, resultados por planta, días de semana, calendario y calidad de datos.
+informe.md explica los resultados y metodologia.md detalla filtros, pesos y población comparable.
+Los PNG y SVG se pueden insertar en documentos. Los CSV permiten revisar los datos.
+
+La duración va de recepción registrada a término; no incluye necesariamente la fila exterior.
+La comparación principal usa peaks dentro de cada planta y mes. También se entregan las fechas peak regionales del informe previo.
+Los resultados describen 2025: menor duración no demuestra mayor productividad ni igual calidad de inspección.

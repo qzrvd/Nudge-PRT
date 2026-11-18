@@ -1,0 +1,7 @@
+﻿pico,mediana_min,p90_min,media_min,registros,cobertura_soporte_pct,plantas_comparadas,celdas_comparables,escenario
+False,17.0,42.0,21.61839188176191,612990,33.006156044667264,33,4729,Positivas hasta 4 horas
+True,20.0,58.0,27.110317145264627,318899,86.57358642183105,33,4729,Positivas hasta 4 horas
+False,17.0,48.0,23.86766016906851,399673,33.01740118893805,24,2907,Planta/mes con al menos 95% de tiempos positivos
+True,21.0,67.0,30.497796149282642,208712,87.5602020439328,24,2907,Planta/mes con al menos 95% de tiempos positivos
+False,16.0,41.0,20.95168046046332,50566,2.722208344818082,28,1348,Ajuste adicional por hora de inicio
+True,19.0,60.0,27.467901071816485,35705,9.68985936745206,28,1348,Ajuste adicional por hora de inicio

@@ -1,0 +1,14 @@
+{
+  "meses_importados": 12,
+  "plantas_b_ab_observadas": 33,
+  "registros_b_ab": 2320324,
+  "duplicados_exactos_rm_eliminados": 20512,
+  "registros_otras_clases_excluidos": 2,
+  "fechas_invalidas_rm": 0,
+  "codigos_sin_catalogo": 0,
+  "peaks_regionales_exportados": 12,
+  "peaks_por_planta_exportados": 405,
+  "conciliacion_b_1348_enero": 7410,
+  "integridad_sqlite": "ok",
+  "conciliacion_totales_y_peaks": "ok"
+}

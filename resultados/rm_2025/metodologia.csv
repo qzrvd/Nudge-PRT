@@ -1,0 +1,11 @@
+﻿tema,descripcion
+Alcance,"2025, archivos SGPRT RB, plantas de región 13 según catálogo oficial; A1/A2 excluidas."
+Códigos clase A en RB,"Registros con código de planta A se conservan en la base y la hoja otras_clases_en_rb, pero se excluyen del análisis de plantas B/AB."
+Unidad,Registros publicados distintos tras eliminar filas completamente idénticas. Incluye reingresos.
+Peak,Mayor cantidad de registros en una fecha del mes. Se conservan todos los empates.
+Porcentaje,Registros de la fecha / registros totales del mismo mes y ámbito (planta o RM).
+Ausencias,Sin registros no equivale a cerrado o a demanda cero. Mes pendiente nunca se completa con ceros.
+Cobertura,Un mes importado no demuestra que el origen incluya el 100% de las atenciones.
+Catálogo,Catálogo descargado el 02-11-2026: observaciones pueden describir cierres posteriores a 2025.
+Privacidad,La base almacena conteos por planta y fecha; no guarda patentes ni identificadores vehiculares.
+Fuente,https://www.prt.cl/Descargas/index.html

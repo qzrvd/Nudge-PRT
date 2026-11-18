@@ -1,0 +1,6 @@
+﻿poblacion,registros,mes_precedente,porcentaje_mes_precedente
+Todos los registros,2320324,83392,3.593980840606743
+Cohorte compatible,1117644,39597,3.542899170039834
+Sin revisita reciente 15d ni orden ambiguo,878247,32409,3.6901919391697326
+Sin revisita reciente 30d ni orden ambiguo,871130,32355,3.7141414025461184
+Sensibilidad: excluir primera quincena de enero,848312,30592,3.6062203528890313

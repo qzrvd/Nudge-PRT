@@ -1,0 +1,102 @@
+{
+  "registros": 2320324,
+  "ppu_reconocida": 2320324,
+  "campo_reingreso_explicito_archivos": 0,
+  "reingreso_compatible_15": 465415,
+  "revisita_cualquier_planta_15": 491053,
+  "registros_orden_ambiguo": 6133,
+  "cohorte_compatible": 1117644,
+  "linea_base_observada": {
+    "poblacion": "Sin revisita reciente 15d ni orden ambiguo",
+    "registros": 878247,
+    "mes_precedente": 32409,
+    "porcentaje_mes_precedente": 3.6901919391697326
+  },
+  "sensibilidades": [
+    {
+      "poblacion": "Sin revisita reciente 30d ni orden ambiguo",
+      "registros": 871130,
+      "mes_precedente": 32355,
+      "porcentaje_mes_precedente": 3.7141414025461184
+    },
+    {
+      "poblacion": "Sensibilidad: excluir primera quincena de enero",
+      "registros": 848312,
+      "mes_precedente": 30592,
+      "porcentaje_mes_precedente": 3.6062203528890313
+    }
+  ],
+  "mes_precedente_cierre_pct": 34.629269647320186,
+  "mes_precedente_mitad_pct": 20.33077231633188,
+  "revisitas_por_ventana": [
+    {
+      "ventana": "Cierre: últimos 7",
+      "registros": 625805,
+      "compatibles_misma_planta_15": 117459,
+      "revisitas_cualquier_planta_15": 123928,
+      "porcentaje_compatible_misma_planta": 18.769265186439867
+    },
+    {
+      "ventana": "Inicio: 1–7",
+      "registros": 581829,
+      "compatibles_misma_planta_15": 117755,
+      "revisitas_cualquier_planta_15": 124297,
+      "porcentaje_compatible_misma_planta": 20.238764310476103
+    },
+    {
+      "ventana": "Mitad: 12–18",
+      "registros": 468935,
+      "compatibles_misma_planta_15": 98296,
+      "revisitas_cualquier_planta_15": 103650,
+      "porcentaje_compatible_misma_planta": 20.96154051201126
+    },
+    {
+      "ventana": "Resto del mes",
+      "registros": 643755,
+      "compatibles_misma_planta_15": 131905,
+      "revisitas_cualquier_planta_15": 139178,
+      "porcentaje_compatible_misma_planta": 20.489937942229574
+    }
+  ],
+  "proximidad_calendario_por_ventana": [
+    {
+      "ventana": "Cierre: últimos 7",
+      "registros": 240215,
+      "del_mes_recien_terminado": 25345,
+      "porcentaje_del_mes_recien_terminado": 10.550964760735175
+    },
+    {
+      "ventana": "Inicio: 1–7",
+      "registros": 219309,
+      "del_mes_recien_terminado": 96400,
+      "porcentaje_del_mes_recien_terminado": 43.95624438577532
+    },
+    {
+      "ventana": "Mitad: 12–18",
+      "registros": 176304,
+      "del_mes_recien_terminado": 37919,
+      "porcentaje_del_mes_recien_terminado": 21.507736636718395
+    },
+    {
+      "ventana": "Resto del mes",
+      "registros": 242419,
+      "del_mes_recien_terminado": 50325,
+      "porcentaje_del_mes_recien_terminado": 20.759511424434553
+    }
+  ],
+  "inicio_mes_estado_vencimiento": [
+    {
+      "estado_vencimiento_previo": "Fecha no posterior al vencimiento previo observado",
+      "registros": 1814
+    },
+    {
+      "estado_vencimiento_previo": "Fecha posterior al vencimiento previo observado",
+      "registros": 10403
+    },
+    {
+      "estado_vencimiento_previo": "Sin vencimiento previo suficiente",
+      "registros": 207092
+    }
+  ],
+  "limites": "Historial limitado a RM 2025. No confirma atraso efectivo ni causa de liquidez; revisitas inferidas, no marcadas oficialmente."
+}

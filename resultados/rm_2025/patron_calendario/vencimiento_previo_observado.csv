@@ -1,0 +1,13 @@
+﻿ventana,estado_vencimiento_previo,registros
+Cierre: últimos 7,Fecha no posterior al vencimiento previo observado,7195
+Cierre: últimos 7,Fecha posterior al vencimiento previo observado,4609
+Cierre: últimos 7,Sin vencimiento previo suficiente,228411
+Inicio: 1–7,Fecha no posterior al vencimiento previo observado,1814
+Inicio: 1–7,Fecha posterior al vencimiento previo observado,10403
+Inicio: 1–7,Sin vencimiento previo suficiente,207092
+Mitad: 12–18,Fecha no posterior al vencimiento previo observado,2819
+Mitad: 12–18,Fecha posterior al vencimiento previo observado,6438
+Mitad: 12–18,Sin vencimiento previo suficiente,167047
+Resto del mes,Fecha no posterior al vencimiento previo observado,4178
+Resto del mes,Fecha posterior al vencimiento previo observado,8133
+Resto del mes,Sin vencimiento previo suficiente,230108

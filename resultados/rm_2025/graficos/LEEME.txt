@@ -1,0 +1,12 @@
+Revisiones técnicas RM · 2025 · 33 plantas B/AB
+
+Abra informe_interactivo.html en su navegador. Funciona sin conexión.
+El calendario promedio permite elegir toda la RM o una planta.
+Los PNG se pueden insertar en documentos; los SVG permiten ampliar sin perder nitidez.
+datos_graficos.xlsx contiene las tablas de los gráficos.
+contexto_y_fuentes.md documenta las cifras del parque vehicular y los datos faltantes sobre vencimiento e impago.
+resumen.json y validacion_graficos.json registran los resultados y sus comprobaciones.
+
+El análisis cuenta revisiones publicadas distintas, incluidos reingresos, no vehículos únicos ni reservas.
+HORA_INI corresponde a recepción en planta; no mide espera fuera de ella.
+Fecha de consulta de fuentes externas: 2 de noviembre de 2026.

@@ -1,0 +1,123 @@
+{
+  "meses": 12,
+  "registros": 2320324,
+  "duraciones_positivas": 2226014,
+  "registros_sin_duracion_positiva": 94310,
+  "cobertura_positiva_pct": 95.93548142414593,
+  "mediana_habitual_ajustada": 17.0,
+  "mediana_pico_ajustada": 20.0,
+  "p90_habitual_ajustado": 42.0,
+  "p90_pico_ajustado": 58.0,
+  "diferencia_mediana_min": 3.0,
+  "diferencia_p90_min": 16.0,
+  "plantas_comparadas": 33,
+  "cobertura_soporte_pico_pct": 86.58345952811294,
+  "cobertura_soporte_habitual_pct": 33.011419428748624,
+  "comparacion_peaks_regionales": [
+    {
+      "pico_regional": false,
+      "mediana_min": 17.0,
+      "p90_min": 43.0,
+      "media_min": 22.030216715151287,
+      "registros": 274542,
+      "cobertura_soporte_pct": 13.076267989620604,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 1777
+    },
+    {
+      "pico_regional": true,
+      "mediana_min": 20.0,
+      "p90_min": 61.0,
+      "media_min": 28.180553968050315,
+      "registros": 107734,
+      "cobertura_soporte_pct": 85.18541946706729,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 1777
+    }
+  ],
+  "plantas_pico_mas_lento_mediana": 30,
+  "plantas_pico_igual_mediana": 3,
+  "plantas_pico_mas_rapido_mediana": 0,
+  "dias_semana": [
+    {
+      "dia_semana": 0,
+      "mediana_min": 17.0,
+      "p90_min": 43.0,
+      "media_min": 22.301786988767297,
+      "registros": 346554,
+      "cobertura_soporte_pct": 91.1979410634681,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 2400,
+      "nombre_dia": "Lunes",
+      "ranking_mediana": 1,
+      "ranking_p90": 1
+    },
+    {
+      "dia_semana": 1,
+      "mediana_min": 17.0,
+      "p90_min": 43.0,
+      "media_min": 22.04183156095448,
+      "registros": 352567,
+      "cobertura_soporte_pct": 91.0484724840534,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 2400,
+      "nombre_dia": "Martes",
+      "ranking_mediana": 1,
+      "ranking_p90": 1
+    },
+    {
+      "dia_semana": 2,
+      "mediana_min": 17.0,
+      "p90_min": 43.0,
+      "media_min": 22.38014635958891,
+      "registros": 338953,
+      "cobertura_soporte_pct": 91.2999795287298,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 2400,
+      "nombre_dia": "Miércoles",
+      "ranking_mediana": 1,
+      "ranking_p90": 1
+    },
+    {
+      "dia_semana": 3,
+      "mediana_min": 17.0,
+      "p90_min": 43.0,
+      "media_min": 22.203243091315574,
+      "registros": 333099,
+      "cobertura_soporte_pct": 91.60987442451444,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 2400,
+      "nombre_dia": "Jueves",
+      "ranking_mediana": 1,
+      "ranking_p90": 1
+    },
+    {
+      "dia_semana": 4,
+      "mediana_min": 17.0,
+      "p90_min": 45.0,
+      "media_min": 22.99012786955008,
+      "registros": 333962,
+      "cobertura_soporte_pct": 92.10356486869613,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 2400,
+      "nombre_dia": "Viernes",
+      "ranking_mediana": 1,
+      "ranking_p90": 5
+    },
+    {
+      "dia_semana": 5,
+      "mediana_min": 19.0,
+      "p90_min": 55.0,
+      "media_min": 26.441105417491062,
+      "registros": 336671,
+      "cobertura_soporte_pct": 93.17549054880581,
+      "plantas_comparadas": 33,
+      "celdas_comparables": 2400,
+      "nombre_dia": "Sábado",
+      "ranking_mediana": 6,
+      "ranking_p90": 6
+    }
+  ],
+  "mas_de_4_horas": 459,
+  "duraciones_en_minutos_enteros_pct": 100.0
+}

@@ -1,0 +1,82 @@
+{
+  "meses_horarios": 12,
+  "registros_con_hora": 2320324,
+  "registros_sin_hora": 0,
+  "hora_peak": 11,
+  "porcentaje_hora_peak": 12.105550776529485,
+  "peak_por_dia_semana": {
+    "Lunes": {
+      "hora": 11,
+      "porcentaje": 11.677093243628601
+    },
+    "Martes": {
+      "hora": 11,
+      "porcentaje": 12.046434789490345
+    },
+    "Miércoles": {
+      "hora": 11,
+      "porcentaje": 11.933319570602807
+    },
+    "Jueves": {
+      "hora": 11,
+      "porcentaje": 12.037105360248775
+    },
+    "Viernes": {
+      "hora": 11,
+      "porcentaje": 11.385315758826954
+    },
+    "Sábado": {
+      "hora": 11,
+      "porcentaje": 13.595299125921223
+    }
+  },
+  "registros_hora_00": 5,
+  "total_registros": 2320324,
+  "marzo_total": 211114,
+  "marzo_ranking_total": 2,
+  "marzo_promedio_fecha": 6810.129032258064,
+  "marzo_ranking_promedio": 4,
+  "umbral_p90": 9640.6,
+  "dias_promedio_mayor_concentracion": [
+    {
+      "dia": 30,
+      "porcentaje_mensual_promedio": 4.425239612728072,
+      "promedio_revisiones": 8414.90909090909,
+      "meses_disponibles": 11,
+      "minimo_porcentaje": 0.0,
+      "maximo_porcentaje": 6.352340505079419
+    },
+    {
+      "dia": 29,
+      "porcentaje_mensual_promedio": 4.416723996362074,
+      "promedio_revisiones": 8647.272727272728,
+      "meses_disponibles": 11,
+      "minimo_porcentaje": 0.0,
+      "maximo_porcentaje": 6.0240280762230904
+    },
+    {
+      "dia": 3,
+      "porcentaje_mensual_promedio": 4.187036564470214,
+      "promedio_revisiones": 7999.083333333333,
+      "meses_disponibles": 12,
+      "minimo_porcentaje": 0.0,
+      "maximo_porcentaje": 6.032973005616281
+    },
+    {
+      "dia": 28,
+      "porcentaje_mensual_promedio": 4.072946159300067,
+      "promedio_revisiones": 8049.583333333333,
+      "meses_disponibles": 12,
+      "minimo_porcentaje": 0.0,
+      "maximo_porcentaje": 5.377118331755274
+    },
+    {
+      "dia": 4,
+      "porcentaje_mensual_promedio": 3.930471731034919,
+      "promedio_revisiones": 7559.166666666667,
+      "meses_disponibles": 12,
+      "minimo_porcentaje": 0.0,
+      "maximo_porcentaje": 5.642701853976689
+    }
+  ]
+}

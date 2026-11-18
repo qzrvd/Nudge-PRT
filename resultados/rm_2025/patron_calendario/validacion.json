@@ -1,0 +1,10 @@
+{
+  "meses": 12,
+  "registros_conciliados": 2320324,
+  "ppu_reconocida": 2320324,
+  "marca_reingreso_explicita": false,
+  "pruebas_clasificacion_temporal": 4,
+  "ventanas_comparables": "ok",
+  "denominadores_cohorte": "ok",
+  "excel": "ok"
+}
